@@ -18,17 +18,9 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-### Current Problem
-DRF registration system does not yet support tracking chages 
-### User 
-NICHD Staff
-### Impact
-Medium - I can work around this but it is unpleasant
-### User Goal
-My goal is to track the provenance of edits made to the DRF and to document why the changes were made.
-### Story Source
-ODSS
-
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? | User | Impact | Story Source
+| :------------- | :------------ | :------------ | :------------ | :------------ | :------------ | 
+| [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) | DRF registration system does not yet support tracking changes | My goal is to track the provenance of edits made to the DRF and to document why the changes were made. | NICHD Staff | Medium - I can work around this but it is unpleasant | ODSS
 
 </br>
 
