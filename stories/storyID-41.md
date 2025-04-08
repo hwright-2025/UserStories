@@ -18,16 +18,9 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-### Current Problem
-We believe the same children were recruited for multiple studies with different data collection protocols and the data are shared through multiple data repositories, but we don’t have a way to identify which children are the same without sharing personally identifiable information which is not allowed by our IRB 
-### User 
-Researcher
-### Impact
-Medium - I can work around this but it is unpleasant
-### User Goal
-My goal is to enable participant-level linkage in children across multiple studies and data repositories
-### Story Source
-CARING for Children with COVID (https://caring4kidswithcovid.nih.gov/)
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? | User | Impact | Story Source
+| :------------- | :------------ | :------------ | :------------ | :------------ | :------------ | 
+| As a researcher/clinician, I want to combine participant-level data collected from multiple studies and data repositories to merge multiple data types for each participant and avoid working with inflated sample sizes to effectively study COVID in children.  | We believe the same children were recruited for multiple studies with different data collection protocols and the data are shared through multiple data repositories, but we don’t have a way to identify which children are the same without sharing personally identifiable information which is not allowed by our IRB | My goal is to enable participant-level linkage in children across multiple studies and data repositories | Researcher | Medium - I can work around this but it is unpleasant | CARING for Children with COVID (https://caring4kidswithcovid.nih.gov/)
 
 
-</br>
+<br>
