@@ -3,9 +3,9 @@
 </br>
 
 # User Stories
-Each user story is an informal, general explanation of a desired ecosystem feature or process written from the perspective of a specific end user. The purpose of a User Story is to articulate how a piece of work will deliver a particular value back to the user. User stories are gathered by NICHD from their Ecosystem Working Group, and are used to initiate Ecosystem efforts. 
+Each user story is an informal, general explanation of a desired ecosystem feature or process written from the perspective of a specific end user. The purpose of a User Story is to articulate how a piece of work will deliver a particular value back to the user. User stories are gathered from the NICHD community, and are used to initiate Ecosystem efforts. 
 
-Each story listed below has been selected to drive a data ecosystem improvement effort. 
+Each story listed below has been selected to drive a data ecosystem effort. 
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
 ##### Questions on a user story? Contact [ecosystem-help@ll.mit.edu](mailto:ecosystem-help@ll.mit.edu?subject=Ecosystem_Library)
