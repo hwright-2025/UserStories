@@ -18,8 +18,9 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? | User | Impact | Story Source
-| :------------- | :------------ | :------------ | :------------ | :------------ | :------------ | 
-| As NIH staff, I want to fund research about the genetic underpinnings of COVID symptoms in children, but I want to avoid paying for duplicate whole genome sequencing for children who have already been sequenced in other studies | We have limited funds to pay for sequencing and without knowing which participants are the same, we are likely to inadvertently pay for whole genome sequencing the same child multiple times | My goal is to enable participant-level linkage in children across multiple studies and data repositories   | NICHD Staff | Medium - I can work around this but it is unpleasant | CARING for Children with COVID (https://caring4kidswithcovid.nih.gov/)
+| User Story | Current Problem | User Goal
+| :------------- | :------------ | :------------ |
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? 
+| As NIH staff, I want to fund research about the genetic underpinnings of COVID symptoms in children, but I want to avoid paying for duplicate whole genome sequencing for children who have already been sequenced in other studies | We have limited funds to pay for sequencing and without knowing which participants are the same, we are likely to inadvertently pay for whole genome sequencing the same child multiple times | My goal is to enable participant-level linkage in children across multiple studies and data repositories
 
 <br>
