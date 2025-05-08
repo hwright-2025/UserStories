@@ -12,8 +12,9 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
+| User Story | Current Problem | User Goal
 | :------------- | :------------ | :------------ |
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
 | As an NIH data repository, I want to facilitate longitudinal data analysis of de-identified data from multiple studies to enable data users to study the impact of long COVID in children  | Our policy is to only accept and share de-identified data, so it’s not possible to determine which participants are the same across studies and enable users to study the same participants at multiple time points | My goal is to enable participant-level linkage in children across multiple studies and data repositories
 
 <br>
