@@ -8,19 +8,17 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 ##### Questions on a user story? Contact [ecosystem-help@ll.mit.edu](mailto:ecosystem-help@ll.mit.edu?subject=Ecosystem_Library)
 <br>
 
-# S3: As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the date and reason for  the change, so that I can go back later and review why that decisions was made 
+# S3: As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the date and reason for  the change, so that I can go back later and review why that decision was made 
 
 <br>
 
-| Related Efforts | Related Use Cases
-| :------------- | :------------ | 
-| [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) | <ul><li>[UC1.3 Edit Repository](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/Documentation/1_Use-Cases/Pages/UC1.3-EditRepository.md)</li><li>[UC1.4 View Provenance](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/Documentation/1_Use-Cases/Pages/UC1.4-ViewProvenance.md)</li></ul>
-
-<br>
-
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? | User | Impact | Story Source
-| :------------- | :------------ | :------------ | :------------ | :------------ | :------------ | 
-| [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) | DRF registration system does not yet support tracking changes | My goal is to track the provenance of edits made to the DRF and to document why the changes were made. | NICHD Staff | Medium - I can work around this but it is unpleasant | ODSS
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? 
+| :------------- | :------------ | :------------ 
+| As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the  date and reason for  the change, so that I can go back later and review why that decision was made| DRF registration system does not yet support tracking changes | My goal is to track the provenance of edits made to the DRF and to document why the changes were made.
 
 </br>
 
+Related Efforts: 
+[E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md)
+
+</br>
