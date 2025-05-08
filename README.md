@@ -8,7 +8,7 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 Each story listed below has been selected to drive a data ecosystem effort. 
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
-##### Questions on a user story? Contact [ecosystem-help@ll.mit.edu](mailto:ecosystem-help@ll.mit.edu?subject=Ecosystem_Library)
+##### Questions on a user story? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 
 </br>
 
