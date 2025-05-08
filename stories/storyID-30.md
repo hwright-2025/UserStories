@@ -11,15 +11,12 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-| Related Efforts | Related Use Cases
-| :------------- | :------------ | 
-| [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md) | [UC1.5 Identify Repository](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/Documentation/1_Use-Cases/Pages/UC1.5-IdentifyRepository.md) |
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
+| :------------- | :------------ | :------------ |
+| As an NICHD (intramural or extramural) researcher, I want to find the best data repositories for sharing scientific data that I am generating in my project and understand the repository's submission and sharing practices so I can complete my DMS Plan. | When I look at a data repository's website it can be difficult to determine the repository's requirements, expectations, and processes (e.g., accepted data types, metadata, formats, other standards, submission agreements, whether it is controlled access). It is also time consuming to look at many repository websites to determine if its appropriate.  | My goal is to adhere to the expectations of the DMS Policy which expects maximizing the sharing of scientific data generated in my project
 
 <br>
 
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? | User | Impact | Story Source
-| :------------- | :------------ | :------------ | :------------ | :------------ | :------------ | 
-| As an NICHD (intramural or extramural) researcher, I want to find the best data repositories for sharing scientific data that I am generating in my project and understand the repository's submission and sharing practices so I can complete my DMS Plan. | When I look at a data repository's website it can be difficult to determine the repository's requirements, expectations, and processes (e.g., accepted data types, metadata, formats, other standards, submission agreements, whether it is controlled access). It is also time consuming to look at many repository websites to determine if its appropriate.  | My goal is to adhere to the expectations of the DMS Policy which expects maximizing the sharing of scientific data generated in my project | High - It is critical this gets addressed as soon as possible | Many public meetings including FDP, GREI, and HEAL webinars. Meeting with intramural investigators. 
+Related Efforts: [E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md)
 
 <br>
-
