@@ -11,8 +11,9 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
+| User Story | Current Problem | User Goal
 | :------------- | :------------ | :------------ |
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
 | As an NICHD program officer, I want to verify that researchers are using data repositories appropriate for the scientific data they plan to share and that their DMS Plan is consistent with the repository's expectations and requirements  | When I look at a data repository's website it can be difficult to determine the repository's requirements, expectations, and processes (e.g., accepted data types, metadata, formats, other standards, submission agreements, whether it is controlled access). It is also time consuming to look at many repository websites to determine if its appropriate. | My goal is to determine whether the researcher is adequately planning to share their scientific data in data repositories to adhere to the DMS Policy's expectations.
 
 <br>
