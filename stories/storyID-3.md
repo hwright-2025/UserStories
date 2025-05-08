@@ -13,8 +13,9 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 
 <br>
 
+| User Story | Current Problem | User Goal
+| :------------- | :------------ | :------------ |
 | What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? 
-| :------------- | :------------ | :------------ 
 | As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the  date and reason for  the change, so that I can go back later and review why that decision was made| DRF registration system does not yet support tracking changes | My goal is to track the provenance of edits made to the DRF and to document why the changes were made.
 
 </br>
