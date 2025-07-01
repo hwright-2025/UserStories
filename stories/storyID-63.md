@@ -5,22 +5,20 @@
 Each user story is an informal, general explanation of a desired ecosystem feature or process written from the perspective of a specific end user. The purpose of a User Story is to articulate how a piece of work will deliver a particular value back to the user. User stories are gathered by NICHD from their Ecosystem Working Group, and are used to initiate ecosystem Efforts. 
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
-##### Questions on a user story? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
-
+##### Questions on this user story? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 <br>
 
-# S3: As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the date and reason for  the change, so that I can go back later and review why that decision was made 
+# S63: As a researcher, I want to use transcripts of audio recordings from CHILDES to predict whether or not a child is a late talker  
 
 <br>
 
 | User Story | Current Problem | User Goal
 | :------------- | :------------ | :------------ |
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? 
-| As NICHD staff, I want to be able to update a given field in the Data Repository Finder and track the  date and reason for  the change, so that I can go back later and review why that decision was made| DRF registration system does not yet support tracking changes | My goal is to track the provenance of edits made to the DRF and to document why the changes were made.
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
+| As a researcher, I want to use transcripts of audio recordings from CHILDES to predict whether or not a child is a late talker | Today, I have no idea whether these data are "AI-ready" and how much time and effort it would take to prepare transcript data to develop, train, or use an AI/ML model | My goal is to understand the AI-readiness of the data
+<br>
 
-</br>
+Related Efforts: [E3: AI Data Readiness Framework](https://github.com/NIH-NICHD-Ecosystem/AI-Data-Readiness-Framework/blob/main/README.md) 
 
-Related Efforts: 
-[E1: Data Repository Finder](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/README.md)
 
-</br>
+<br>

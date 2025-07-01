@@ -8,19 +8,17 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 ##### Questions on this user story? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 <br>
 
-# S42: As NIH staff, I want to fund research about the genetic underpinnings of COVID symptoms in children, but I want to avoid paying for duplicate whole genome sequencing for children who have already been sequenced in other studies  
-
-<br>
-
-| Related Efforts | 
-| :------------- | 
-| [E2: Record Linkage Implementation Checklist](https://github.com/NIH-NICHD-Ecosystem/E2_Record-Linkage-Implementation-Checklist/blob/main/README.md) | 
+# S62: As a researcher, I want to use DASH BPCA data to train, validate, and test an AI/ML model that predicts adverse events due to antibiotics for intra-abdominal infections in infants with the aim toward recommending the best antibiotic for a patient     
 
 <br>
 
 | User Story | Current Problem | User Goal
 | :------------- | :------------ | :------------ |
-| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal? 
-| As NIH staff, I want to fund research about the genetic underpinnings of COVID symptoms in children, but I want to avoid paying for duplicate whole genome sequencing for children who have already been sequenced in other studies | We have limited funds to pay for sequencing and without knowing which participants are the same, we are likely to inadvertently pay for whole genome sequencing the same child multiple times | My goal is to enable participant-level linkage in children across multiple studies and data repositories
+| What does the user want to be able to do? | Why can't the user do this today? | What's the user's ultimate goal?
+| As a researcher, I want to use DASH BPCA data to train, validate, and test an AI/ML model that predicts adverse events due to antibiotics for intra-abdominal infections in infants with the aim toward recommending the best antibiotic for a patient | Today, I have no idea whether these data are "AI-ready" and how much time and effort it would take to prepare the data to develop, train, or use an AI/ML model | My goal is to understand the AI-readiness of the data
+<br>
+
+Related Efforts: [E3: AI Data Readiness Framework](https://github.com/NIH-NICHD-Ecosystem/AI-Data-Readiness-Framework/blob/main/README.md) 
+
 
 <br>
