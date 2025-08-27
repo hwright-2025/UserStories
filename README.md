@@ -9,7 +9,7 @@ Each story listed below has been selected to drive a data ecosystem effort.
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
 ##### Questions on a user story? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
-##### If you are interested in creating your own User Story Tracker use this [User Story Tracker Template]([https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/documents/NICHD%20StoryTracker-V5_Template.xlsm) 
+
 
 </br>
 
