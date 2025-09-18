@@ -11,7 +11,7 @@ Each user story is an informal, general explanation of a desired ecosystem featu
 <br>
 
 
-# S42:  	As a researcher, I want to access, link, share, and use data from multiple research and administrative data sources (such as CDC NHANES, SAMHSA NSDUH, NIH/NIDA MTF, and ACF AFCARS) so I can study the effects of COVID-19 pandemic on mental health of children and determine whether related outcomes are more severe for children in foster care. 
+# S44:  	As a researcher, I want to access, link, share, and use data from multiple research and administrative data sources (such as CDC NHANES, SAMHSA NSDUH, NIH/NIDA MTF, and ACF AFCARS) so I can study the effects of COVID-19 pandemic on mental health of children and determine whether related outcomes are more severe for children in foster care. 
 
 
 <br>
